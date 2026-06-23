@@ -26,3 +26,14 @@ Analyzed 30,000 hotel booking transactions spanning April 2024–April 2025 to i
 - Implement dynamic pricing during peak seasons
 - Improve Mobile App user experience
 - Launch loyalty programs for leisure travelers
+
+## Key Visualizations
+
+### Cancellation Analysis
+![Cancellation Analysis](images/Cancellation%20Analysis.png)
+
+### Channel Revenue Analysis
+![Channel Revenue Analysis](images/Channel%20Revenue%20Analysis.png)
+
+### Seasonality Trend
+![Seasonality Trend](images/Seasonality%20Trend.png)
