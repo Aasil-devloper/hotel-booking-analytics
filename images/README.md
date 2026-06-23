@@ -2,7 +2,7 @@ Project visualizations and charts.
 ## Key Visualizations
 
 ### Cancellation Analysis
-![Cancellation Analysis](images/cancellation analysis.png)
+![Cancellation Analysis](images/Cancellation Analysis.png)
 
 ### Channel Revenue Analysis
 ![Channel Revenue Analysis](images/channel revenue analysis.png)
